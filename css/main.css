@@ -350,9 +350,7 @@ textarea.form-control, textarea.form-control:focus {
   margin-bottom: 30px;
 }
 
-.text-rotation {
-  display: block;
-}
+
 
 .center {
   text-align: center;
@@ -675,7 +673,7 @@ blockquote {
 }
 
 .section-inner.start-page-full-width .inner-content .fill-block {
-  background-image: url(../images/mian.png);
+  background-image: url(../images/try1.jpg);
 }
 .section-inner.start-page-full-width .inner-content .fill-block {
   position: relative;
@@ -918,7 +916,7 @@ blockquote {
 }
 
 .site-main-menu li.active a:after {
-  background-color: #0099e5;
+  background-color: grey;
 }
 /* /Main menu */
 
@@ -1041,7 +1039,7 @@ blockquote {
   width: 100%;
   height: 2px;
   margin-top: -1px;
-  background-color: #0099e5;
+  background-color: lightgrey;
 }
 
 
@@ -1213,8 +1211,8 @@ blockquote {
   display: inline-block;
   background-color: #555;
   border: 1px solid #333;
-  -webkit-transition-duration: 0.2s;
-  transition-duration: 0.2s;
+  -webkit-transition-duration: 1s;
+  transition-duration: 1s;
 }
 
 .testimonials.owl-carousel .owl-nav .owl-prev:hover,
@@ -3447,8 +3445,8 @@ blockquote p {
 
 /* v2.1 - 28 September 2018 */
 .section-inner.start-page-full-width .hp-text-block .sp-subtitle {
-  color: #a5a5a5;
-  font-weight: 300;
+  color:black;
+  font-weight: 500;
 }
 /* /v2.1 - 28 September 2018 */
 
